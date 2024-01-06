@@ -1,0 +1,9 @@
+- Aby narysować wielokąt kliknij "Draw Polygon"
+- Aby przesunąć wierzchołek/krawędź/wielokąt kliknij "Select" i przesuwaj wybrany obiekt przytrzymując prawym przyckiem myszy
+- Aby zaznaczyć wierzchołek/krawędź/wielokąt kliknij "Select" i naciśnij wybrany obiekt lewym przyskiem myszy a następnie wybierz operację z buttonów po prawej stronie
+- Aby odznaczyć obiekt kliknij na Picture Box
+
+Otoczka:
+- wyznaczenie wektorów dwusiecznych
+- znalezienie przecięć i rozbijanie ich na dwa wierzchołki
+- rysowanie odpowiednich składowych wielokąta w zależności od net winding number
